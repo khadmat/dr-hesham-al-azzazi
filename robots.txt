@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://glowing-macaron-89ce67.netlify.app/sitemap.xml
